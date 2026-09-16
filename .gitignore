@@ -3,3 +3,10 @@
 tempCodeRunnerFile.cpp
 !Solutions/
 !Solutions/**/*.cpp
+.vscode/
+*.exe
+*.out
+Error.txt
+input.txt
+output.txt
+tempCodeRunnerFile.cpp
